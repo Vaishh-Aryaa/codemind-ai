@@ -68,8 +68,6 @@ npm run dev
 
 ## Live Demo
 
-## Live Demo
-
 [CodeMind AI Live Demo](https://codemind-ai-lilac.vercel.app/)
 
 ---
